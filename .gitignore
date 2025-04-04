@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS & Linux system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python egg
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Model files
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.tflite
+*.pb
+
+# Dataset or large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Kaggle API keys or sensitive data
+kaggle.json
