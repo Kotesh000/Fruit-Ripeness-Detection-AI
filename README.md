@@ -1,5 +1,3 @@
----
-
 # Fruit Ripeness Detection using AI
 
 **Fruit Ripeness Detection** is a machine learning project that aims to classify tropical fruits into **Fresh**, **Rotten**, and **Unripe** categories based on their images. For accurate predictions, this project uses convolutional neural networks (CNNs) and transfer learning with **MobileNetV2**. It is designed for real-time and image-based classification, which can be applied in agriculture, food processing, and smart farming.
