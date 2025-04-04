@@ -1,5 +1,3 @@
-Here's your **README content** with **bold headings** (in Markdown style) so that it looks professional and human-written when viewed on GitHub or any Markdown-supported platform:
-
 ---
 
 # Fruit Ripeness Detection using AI
