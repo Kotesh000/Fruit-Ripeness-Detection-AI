@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 
 ### **Step 3: Download and organize dataset**
-- Download dataset from Google Drive: [Click here](https://drive.google.com/file/d/1p4a_lfDgFBpcUe1n0YMiVrtObQUxv8t6/view?usp=sharing)
+- Download dataset from Google Drive: [Click here](https://drive.google.com/file/d/1_76dooEYFE6Ku-D_QyX1jLe_f_Pr0mgI/view?usp=sharing)
 - Extract it and place in a folder named `dataset/` with subfolders:
 ```
 dataset/
